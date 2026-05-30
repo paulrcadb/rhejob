@@ -1,0 +1,7 @@
+INFO:     Started server process [16796]
+INFO:     Waiting for application startup.
+2026-05-30 06:28:54,357 INFO Base Operacional Construcao Civil importada: 30 cargo(s).
+2026-05-30 06:28:55,069 INFO Base Gestao de Obras e Projetos importada: 50 cargo(s).
+2026-05-30 06:28:55,307 INFO Banco SQLite inicializado em C:\Users\paulr\OneDrive\Documentos\project-codex-visualstudio\job-analyzer\database.db
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

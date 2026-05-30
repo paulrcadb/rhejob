@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Administracao | RH Job</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="RH Job">
+        <img src="assets/logorh.jpg" alt="RH Job" />
+      </a>
+      <nav>
+        <a href="cargos.html">Busca de Cargos</a>
+        <a href="analise.html">Analisar curriculo</a>
+        <a class="gear-link active" href="admin.html" aria-label="Administracao">&#9881;</a>
+        <button class="logout-button" type="button">Sair</button>
+      </nav>
+    </header>
+    <section class="cover compact" aria-label="Conectando caminhos, criando oportunidades">
+      <img src="assets/rh_jobs_cover.jpg" alt="Conectando caminhos, criando oportunidades." />
+    </section>
+
+    <main class="shell">
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Administracao</p>
+            <h1>Painel do site</h1>
+            <p id="admin-ia-status">Modo local com fontes publicas e analise heuristica.</p>
+          </div>
+          <div class="tabs" role="tablist">
+            <button class="tab active" type="button" data-tab="usuarios">Usuarios</button>
+            <button class="tab" type="button" data-tab="logs">Logs</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="tab-usuarios" class="admin-tab panel">
+        <h2>Cadastro de usuarios</h2>
+        <form id="usuario-form" class="form">
+          <div class="form-grid">
+            <div>
+              <label for="usuario_nome">Nome</label>
+              <input id="usuario_nome" name="nome" type="text" required />
+            </div>
+            <div>
+              <label for="usuario_email">E-mail</label>
+              <input id="usuario_email" name="email" type="email" required />
+            </div>
+            <div>
+              <label for="usuario_perfil">Perfil</label>
+              <select id="usuario_perfil" name="perfil">
+                <option value="administrador">Administrador</option>
+                <option value="recrutador">Recrutador</option>
+                <option value="analista">Analista</option>
+              </select>
+            </div>
+            <div>
+              <label for="usuario_senha">Senha</label>
+              <input id="usuario_senha" name="senha" type="password" minlength="6" required />
+            </div>
+          </div>
+          <button type="submit">Salvar usuario</button>
+        </form>
+        <p id="admin-status" class="status"></p>
+        <div id="usuarios-list" class="admin-list"></div>
+      </section>
+
+      <section id="tab-logs" class="admin-tab panel hidden">
+        <div class="section-head">
+          <div>
+            <h2>Logs de analises</h2>
+            <p>Registros locais para diagnosticar qualidade da leitura e melhorar a ferramenta.</p>
+          </div>
+          <button id="limpar-logs" type="button">Excluir todos os logs</button>
+        </div>
+        <div id="logs-list" class="admin-list"></div>
+      </section>
+    </main>
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

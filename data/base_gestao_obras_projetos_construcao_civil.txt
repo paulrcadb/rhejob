@@ -1,0 +1,103 @@
+BLOCO_4|GESTAO_DE_OBRAS_E_PROJETOS|BRASIL|VERSAO_2026
+
+ID|Cargo|Aliases|Familia|Senioridade|Descricao|Responsabilidades|Requisitos|Ferramentas|Faixa_CLT_BR_Mensal|PJ_Referencia|Mercado_Premium|Keywords
+
+CC-GOP-001|Supervisor de Obras|Supervisor Civil; Supervisor de Campo|Gestao de Obras|Supervisao|Supervisiona frentes de serviço, produtividade, qualidade e segurança.|Acompanhar equipes; validar execução; reportar avanço; controlar pendências.|Técnico/Engenharia desejável; vivência forte em obra.|Excel; AutoCAD; MS Project básico|R$5.000-R$8.500|R$7.000-R$12.000|Industrial/Data Center +25% a +60%|supervisor obras campo execução
+
+CC-GOP-002|Coordenador de Obras|Coordenador Civil; Coordenador de Campo|Gestao de Obras|Coordenacao|Coordena obras, equipes, terceiros, prazo, custo, qualidade e segurança.|Coordenar frentes; controlar cronograma; gerir empreiteiros; reportar indicadores.|Engenharia Civil; CREA; experiência em obra.|MS Project; AutoCAD; Excel; ERP|R$9.000-R$16.000|R$13.000-R$22.000|Obras técnicas +20% a +50%|coordenador obras civil
+
+CC-GOP-003|Coordenador de Obras Sênior|Coordenador Senior de Obras|Gestao de Obras|Coordenacao Senior|Coordena obras complexas ou múltiplos contratos simultâneos.|Gestão de escopo; medições; interface cliente; gestão de riscos.|Engenharia Civil; forte bagagem em obras complexas.|Primavera P6; MS Project; Power BI|R$13.000-R$22.000|R$18.000-R$30.000|Data Center/Industrial +30% a +70%|coordenador senior obras
+
+CC-GOP-004|Gerente de Obras|Gerente Civil; Gerente de Construção|Gestao de Obras|Gerencia|Gerencia execução integral da obra com foco em prazo, custo, qualidade, segurança e margem.|Gerir orçamento; liderar equipes; negociar terceiros; controlar cronograma; reportar diretoria.|Engenharia Civil; CREA; experiência robusta em gestão.|MS Project; Primavera; ERP; Power BI|R$16.000-R$28.000|R$22.000-R$40.000|Projetos críticos +30% a +80%|gerente obras construção
+
+CC-GOP-005|Gerente de Obras Sênior|Senior Construction Manager|Gestao de Obras|Gerencia Senior|Gerencia obras de alta complexidade, CAPEX elevado ou múltiplas disciplinas.|Governança; riscos; margem; cliente; claims; produtividade.|Engenharia; inglês desejável; experiência em contratos complexos.|Primavera P6; Power BI; ERP; BIM 360|R$22.000-R$38.000|R$30.000-R$55.000|Data Center/O&G +40% a +100%|gerente senior obras
+
+CC-GOP-006|Gerente Regional de Obras|Regional Construction Manager|Gestao de Obras|Gerencia Regional|Gerencia carteira regional de obras, padronização, indicadores e equipes.|Acompanhar obras; auditar desempenho; apoiar gerentes; consolidar resultados.|Engenharia; gestão multiobras; disponibilidade para viagens.|Power BI; ERP; MS Project|R$24.000-R$42.000|R$35.000-R$65.000|Nacional/multi-site +30% a +80%|gerente regional obras
+
+CC-GOP-007|Gerente Geral de Obras|General Construction Manager|Gestao de Obras|Gerencia Executiva|Responde por grandes contratos ou unidade operacional de construção.|P&L; diretoria; clientes; riscos; contratos; resultado operacional.|Engenharia; experiência executiva em construção.|ERP; BI; Primavera; dashboards executivos|R$30.000-R$55.000|R$45.000-R$80.000|Megaobras +50% a +120%|gerente geral obras
+
+CC-GOP-008|Superintendente de Obras|Superintendente de Construção|Gestao de Obras|Executivo|Lidera portfólio de obras, estrutura operacional e resultados da construção.|Governança; estratégia; orçamento; pessoas; margem; relacionamento institucional.|Engenharia; sólida trajetória executiva.|BI; ERP; gestão de portfólio|R$38.000-R$70.000|R$55.000-R$100.000|Data Center/Infra +50% a +150%|superintendente obras
+
+CC-GOP-009|Diretor de Obras|Diretor de Construção; Construction Director|Diretoria|Diretoria|Define estratégia e responde pela performance global das obras.|Estratégia; P&L; governança; clientes; contratos; expansão.|Engenharia; experiência em liderança nacional.|ERP; BI; governança corporativa|R$45.000-R$85.000|R$70.000-R$130.000|Grandes grupos +80% a +180%|diretor obras construção
+
+CC-GOP-010|Diretor de Operações de Obras|COO Construção; Diretor Operacional|Diretoria|C-Level/Executivo|Lidera operações de construção, obras, produção, contratos e resultado.|Definir operação; margem; produtividade; riscos; diretoria executiva.|Engenharia; histórico executivo; alta capacidade de gestão.|BI executivo; ERP; governança|R$55.000-R$110.000|R$90.000-R$180.000|Nacional/industrial +100%+|diretor operações obras
+
+CC-GOP-011|Vice-Presidente de Engenharia e Construção|VP Engineering; VP Construction|Diretoria|C-Level|Lidera estratégia nacional de engenharia, construção, expansão e portfólio.|Estratégia; M&A; CAPEX; portfólio; governança; alta liderança.|Experiência executiva em grandes operações.|Board reports; BI; governança|R$80.000-R$160.000|R$130.000-R$250.000|Multinacional + variável elevado|vp engenharia construção
+
+CC-GOP-012|Gerente de Projetos|Project Manager; PM|Gestao de Projetos|Gerencia|Gerencia projetos de construção do início ao encerramento.|Escopo; prazo; custo; stakeholders; riscos; entregas.|Engenharia/Administração; PMP desejável.|MS Project; Jira; Power BI; Primavera|R$14.000-R$26.000|R$20.000-R$38.000|Projetos técnicos +25% a +70%|gerente projetos construção
+
+CC-GOP-013|Gerente de Projetos Sênior|Senior Project Manager|Gestao de Projetos|Gerencia Senior|Gerencia projetos estratégicos, complexos ou simultâneos.|Governança; riscos; contratos; fornecedores; cliente; orçamento.|Experiência robusta; PMP/MBA desejável; inglês diferencial.|Primavera; MS Project; Power BI|R$20.000-R$36.000|R$30.000-R$55.000|Data Center/EPC +40% a +100%|senior project manager
+
+CC-GOP-014|Construction Project Manager|Gerente de Projeto de Construção|Gestao de Projetos|Gerencia|Gerencia projeto de construção com forte interface técnica e campo.|Planejar; contratar; executar; controlar custo; reportar stakeholders.|Engenharia Civil; experiência em obra e projetos.|Primavera; BIM 360; MS Project|R$18.000-R$34.000|R$28.000-R$50.000|Data Center +50% a +120%|construction project manager
+
+CC-GOP-015|Program Manager Construction|Gerente de Programa Construção|Gestao de Programas|Gerencia Senior|Gerencia programa com múltiplos projetos interdependentes.|Roadmap; orçamento; riscos; governança; stakeholders executivos.|Experiência multi-projetos; PMP/PgMP diferencial.|PPM; Power BI; Primavera|R$28.000-R$50.000|R$40.000-R$75.000|Multisite +50% a +120%|program manager construção
+
+CC-GOP-016|Portfolio Manager Construction|Gerente de Portfólio Construção|Gestao de Portfolio|Gerencia Executiva|Gerencia portfólio de obras e investimentos CAPEX.|Priorizar projetos; balancear recursos; reportar ROI; governança.|Experiência executiva; finanças de projetos.|Power BI; ERP; PPM|R$32.000-R$60.000|R$50.000-R$90.000|Nacional +60% a +140%|portfolio manager obras
+
+CC-GOP-017|Coordenador de Projetos|Coordenador PM; Coordenador de Engenharia|Gestao de Projetos|Coordenacao|Coordena projetos técnicos, interfaces e entregáveis.|Compatibilizar disciplinas; controlar prazos; apoiar aprovações; gerir pendências.|Engenharia/Arquitetura; AutoCAD/BIM desejável.|AutoCAD; Revit; MS Project|R$9.000-R$16.000|R$13.000-R$24.000|Hospitalar/DC +30% a +70%|coordenador projetos
+
+CC-GOP-018|Gerente de PMO|PMO Manager; Head PMO|PMO|Gerencia|Estrutura e governa metodologia, indicadores e carteira de projetos.|Padronizar ritos; dashboards; priorização; riscos; reporte executivo.|Experiência em PMO; PMP/PMI desejável.|Power BI; MS Project; PPM; Jira|R$22.000-R$40.000|R$35.000-R$65.000|Portfólio nacional +40% a +90%|pmo manager
+
+CC-GOP-019|Head de PMO|Head PMO; Líder de Escritório de Projetos|PMO|Executivo|Lidera PMO corporativo para obras, CAPEX e expansão.|Governança; metodologia; orçamento; portfolio; diretoria.|Experiência executiva em projetos complexos.|PPM; BI; ERP|R$32.000-R$65.000|R$50.000-R$100.000|Multinacional +50% a +120%|head pmo projetos
+
+CC-GOP-020|Project Controls Manager|Gerente de Controles de Projetos|Project Controls|Gerencia|Gerencia prazo, custo, escopo, riscos, avanço físico-financeiro e performance.|Controlar baseline; EVM; curva S; forecast; relatórios executivos.|Engenharia; forte domínio de planejamento/custos.|Primavera P6; Power BI; Excel avançado|R$20.000-R$38.000|R$30.000-R$58.000|EPC/Data Center +50% a +120%|project controls
+
+CC-GOP-021|Coordenador de Planejamento de Obras|Planning Coordinator|Planejamento|Coordenacao|Coordena cronogramas, avanço físico, histograma e produtividade.|Elaborar cronograma; medir avanço; analisar desvios; reportar KPI.|Engenharia; planejamento de obras.|MS Project; Primavera; Excel|R$10.000-R$18.000|R$15.000-R$27.000|Industrial +30% a +80%|planejamento obras
+
+CC-GOP-022|Gerente de Planejamento|Planning Manager|Planejamento|Gerencia|Lidera planejamento integrado de obras e projetos.|Baseline; caminho crítico; produtividade; forecast; gestão de desvios.|Engenharia; Primavera avançado.|Primavera P6; Power BI; Excel|R$18.000-R$34.000|R$28.000-R$52.000|EPC/Data Center +40% a +100%|gerente planejamento
+
+CC-GOP-023|Scheduler|Planejador Sênior; Cronogramista|Planejamento|Especialista|Desenvolve e controla cronogramas detalhados de obra.|Criar WBS; atualizar cronograma; analisar caminho crítico; curvas.|Engenharia/Técnico; Primavera/MS Project.|Primavera P6; MS Project|R$8.000-R$16.000|R$12.000-R$24.000|EPC +30% a +90%|scheduler cronograma
+
+CC-GOP-024|Cost Controller|Controlador de Custos|Custos|Especialista|Controla orçamento, custos realizados, comprometidos e forecast.|Analisar variações; forecast; CAPEX; relatórios; alertas de desvio.|Engenharia/Admin/Finanças; Excel avançado.|ERP; Power BI; Excel|R$9.000-R$18.000|R$14.000-R$28.000|Projetos CAPEX +30% a +80%|cost controller
+
+CC-GOP-025|Gerente de Custos de Obras|Cost Manager Construction|Custos|Gerencia|Gerencia orçamento, custos, contingências e performance financeira de obras.|Controlar CAPEX; validar medições; forecast; riscos; savings.|Engenharia/Finanças; custos de construção.|ERP; Power BI; Excel|R$18.000-R$34.000|R$28.000-R$52.000|Data Center/Industrial +40% a +100%|gerente custos obras
+
+CC-GOP-026|Controller de Obras|Project Controller|Controle de Obras|Especialista|Integra controles físico-financeiros, medições, custos e contratos.|Medições; orçamento; avanço físico; relatórios; desvios.|Engenharia/Administração; Excel/BI.|Power BI; ERP; Excel|R$9.000-R$17.000|R$13.000-R$25.000|Obras complexas +25% a +70%|controller obras
+
+CC-GOP-027|Gerente de Contratos|Contract Manager|Contratos|Gerencia|Gerencia contratos, pleitos, aditivos, riscos comerciais e obrigações.|Negociar contratos; gerir claims; acompanhar medições; mitigar riscos.|Engenharia/Direito/Admin; experiência contratual.|ERP; Excel; gestão documental|R$20.000-R$36.000|R$32.000-R$58.000|EPC/Infra +50% a +120%|gerente contratos
+
+CC-GOP-028|Coordenador de Contratos|Contract Coordinator|Contratos|Coordenacao|Coordena contratos de fornecedores, empreiteiros e clientes.|Controlar cláusulas; aditivos; medições; documentação; SLA.|Engenharia/Admin/Direito; vivência em obras.|ERP; Excel; GED|R$10.000-R$18.000|R$15.000-R$28.000|Industrial +30% a +80%|coordenador contratos
+
+CC-GOP-029|Claims Manager|Gerente de Pleitos|Claims|Gerencia Senior|Gerencia pleitos, disputas, impactos de prazo/custo e documentação de claims.|Estruturar pleitos; evidências; análise contratual; negociação.|Experiência em contratos complexos; inglês desejável.|Primavera; GED; Excel|R$22.000-R$42.000|R$35.000-R$70.000|EPC/O&G +70% a +150%|claims manager pleitos
+
+CC-GOP-030|Commercial Manager Construction|Gerente Comercial de Contratos|Comercial de Obras|Gerencia|Gerencia aspectos comerciais, margem, alterações de escopo e negociação.|Margem; aditivos; contratos; orçamento; interface cliente.|Engenharia/Admin; visão comercial e contratual.|ERP; CRM; Excel|R$22.000-R$42.000|R$35.000-R$70.000|Infra/EPC +50% a +120%|commercial manager construction
+
+CC-GOP-031|CAPEX Manager|Gerente de CAPEX|CAPEX|Gerencia|Gerencia plano de investimentos, implantação e controle de capital.|Planejar CAPEX; priorizar investimentos; controlar orçamento; reportar ROI.|Engenharia/Finanças; gestão de projetos.|ERP; Power BI; PPM|R$24.000-R$45.000|R$38.000-R$75.000|Indústria/Data Center +50% a +130%|capex manager
+
+CC-GOP-032|Gerente de Implantação|Implementation Manager; Gerente de Expansão|Implantacao|Gerencia|Gerencia implantação de unidades, obras, lojas, sites ou ativos.|Cronograma; fornecedores; licenças; qualidade; entrega operacional.|Engenharia/Arquitetura; gestão multi-sites.|MS Project; AutoCAD; ERP|R$18.000-R$34.000|R$28.000-R$55.000|Rollout nacional +40% a +100%|implantação expansão
+
+CC-GOP-033|Coordenador de Implantação|Coordenador de Expansão|Implantacao|Coordenacao|Coordena implantação de obras padronizadas ou unidades.|Acompanhar cronograma; fornecedores; vistorias; documentação.|Engenharia/Arquitetura; disponibilidade viagens.|MS Project; AutoCAD; Excel|R$9.000-R$17.000|R$14.000-R$26.000|Varejo/saúde +25% a +70%|coordenador implantação
+
+CC-GOP-034|Owner Representative|Representante do Cliente; Dono da Obra|Owner Side|Gerencia Senior|Representa o investidor/cliente na gestão de obra e contratos.|Fiscalizar escopo; controlar riscos; validar medições; reportar sponsor.|Engenharia; experiência como contratante.|Power BI; MS Project; GED|R$20.000-R$38.000|R$32.000-R$65.000|Data Center +60% a +150%|owner representative
+
+CC-GOP-035|Client Representative|Representante Técnico do Cliente|Owner Side|Especialista/Gerencia|Atua como interface técnica entre cliente, construtora e projetistas.|Acompanhar obra; aprovar entregáveis; registrar desvios; controlar qualidade.|Engenharia/Arquitetura; comunicação executiva.|MS Project; BIM 360; Excel|R$14.000-R$26.000|R$22.000-R$42.000|Projetos internacionais +40% a +100%|client representative
+
+CC-GOP-036|EPC Project Manager|Gerente de Projetos EPC|EPC|Gerencia Senior|Gerencia projetos EPC integrando engenharia, suprimentos e construção.|Prazo; custo; contratos; engenharia; procurement; comissionamento.|Engenharia; inglês; experiência EPC.|Primavera; ERP; Power BI|R$28.000-R$55.000|R$45.000-R$90.000|Energia/O&G +70% a +160%|epc project manager
+
+CC-GOP-037|EPCM Manager|Gerente EPCM|EPC/EPCM|Gerencia Senior|Gerencia modelo EPCM com foco em coordenação, gestão e fiscalização.|Engenharia; compras; construção; contratos; segurança; qualidade.|Experiência EPCM; contratos internacionais desejáveis.|Primavera; ERP; BIM|R$30.000-R$60.000|R$50.000-R$100.000|Megaprojetos +80% a +180%|epcm manager
+
+CC-GOP-038|Data Center Construction Manager|Gerente de Construção Data Center|Data Center|Gerencia Senior|Gerencia construção de data centers, salas técnicas e infraestrutura crítica.|MEP; segurança; comissionamento; interface cliente; prazo crítico.|Engenharia; inglês; experiência MEP/crítica.|Primavera; BIM; Procore; Power BI|R$30.000-R$60.000|R$50.000-R$100.000|Mercado premium base|data center construction
+
+CC-GOP-039|Data Center Project Manager|Gerente de Projetos Data Center|Data Center|Gerencia Senior|Gerencia projeto de data center ponta a ponta, incluindo design, build e handover.|Escopo; MEP; riscos; fornecedores; comissionamento; stakeholders globais.|Engenharia; inglês avançado; experiência técnica.|Primavera; MS Project; BIM 360|R$32.000-R$65.000|R$55.000-R$110.000|Hipercale +100%+|data center project manager
+
+CC-GOP-040|Hospital Construction Manager|Gerente de Obras Hospitalares|Hospitalar|Gerencia Senior|Gerencia obras hospitalares com exigências técnicas, operação assistida e compliance.|Fases; interferências; normas; MEP; validação; cliente.|Engenharia; experiência hospitalar.|MS Project; BIM; AutoCAD|R$24.000-R$45.000|R$38.000-R$75.000|Hospital em operação +50% a +120%|obras hospitalares
+
+CC-GOP-041|Industrial Construction Manager|Gerente de Construção Industrial|Industrial|Gerencia Senior|Gerencia obras industriais, utilidades, montagem e interfaces produtivas.|Segurança; cronograma; disciplinas; paradas; contratos; comissionamento.|Engenharia; indústria; SSMA forte.|Primavera; ERP; Power BI|R$26.000-R$50.000|R$42.000-R$85.000|Indústria pesada +60% a +140%|construção industrial
+
+CC-GOP-042|Infrastructure Project Manager|Gerente de Projetos de Infraestrutura|Infraestrutura|Gerencia Senior|Gerencia projetos de infraestrutura urbana, logística, rodoviária ou saneamento.|Licenças; contratos; cronograma; órgãos públicos; custos.|Engenharia Civil; infraestrutura.|Primavera; Civil 3D; Power BI|R$24.000-R$48.000|R$38.000-R$80.000|Concessões +50% a +120%|infraestrutura projetos
+
+CC-GOP-043|Fit-Out Project Manager|Gerente de Projetos Fit-Out|Fit-Out|Gerencia|Gerencia obras internas, retrofit, lajes corporativas e entregas rápidas.|Cronograma curto; fornecedores; acabamento; cliente; handover.|Arquitetura/Engenharia; obras corporativas.|MS Project; AutoCAD; Revit|R$16.000-R$30.000|R$24.000-R$45.000|Alto padrão +30% a +80%|fit out retrofit
+
+CC-GOP-044|Retrofit Manager|Gerente de Retrofit|Retrofit|Gerencia|Gerencia modernização de ativos existentes com operação ativa ou restrições.|Diagnóstico; escopo; fases; riscos; interface operação.|Engenharia/Arquitetura; retrofit predial.|AutoCAD; MS Project; BIM|R$18.000-R$34.000|R$28.000-R$52.000|Prédios críticos +40% a +100%|retrofit obras
+
+CC-GOP-045|Turnaround Manager|Gerente de Parada de Obra/Indústria|Industrial|Gerencia Senior|Gerencia paradas programadas, janelas críticas e intervenções de alta pressão.|Planejar paradas; recursos; segurança; produtividade; retorno operacional.|Experiência industrial; alta gestão de risco.|Primavera; Power BI; ERP|R$28.000-R$55.000|R$45.000-R$95.000|O&G/Mineração +80% a +180%|turnaround parada industrial
+
+CC-GOP-046|Gerente de Comissionamento|Commissioning Manager|Comissionamento|Gerencia Senior|Gerencia testes, start-up, validação e entrega técnica de sistemas.|Plano de testes; documentação; interfaces; punch list; handover.|Engenharia; experiência MEP/utilidades.|CxAlloy; BIM; Excel; GED|R$24.000-R$48.000|R$40.000-R$85.000|Data Center/Hospital +70% a +160%|comissionamento commissioning
+
+CC-GOP-047|Coordenador de Comissionamento|Commissioning Coordinator|Comissionamento|Coordenacao|Coordena testes, checklists e pendências para entrega técnica.|Executar plano; controlar pendências; relatórios; interface campo.|Engenharia/Técnico; MEP desejável.|Excel; BIM 360; GED|R$12.000-R$22.000|R$18.000-R$34.000|Ambientes críticos +40% a +100%|coordenador comissionamento
+
+CC-GOP-048|Gerente de Interface|Interface Manager|Gestao de Interfaces|Gerencia|Gerencia interfaces entre engenharia, obra, cliente, operação e fornecedores.|Matriz de interfaces; riscos; pendências; reuniões; escalonamentos.|Experiência em projetos complexos.|Power BI; MS Project; GED|R$20.000-R$38.000|R$32.000-R$60.000|EPC/Data Center +50% a +120%|interface manager
+
+CC-GOP-049|Gerente de Riscos de Projetos|Project Risk Manager|Riscos|Gerencia|Gerencia riscos técnicos, contratuais, financeiros e de prazo em projetos.|Matriz de riscos; contingência; mitigação; reporte; auditorias.|Experiência em projetos; certificação desejável.|Power BI; Excel; Primavera|R$18.000-R$34.000|R$28.000-R$55.000|Megaobras +40% a +100%|project risk manager
+
+CC-GOP-050|Gerente de Qualidade de Projetos|Project Quality Manager|Qualidade Projetos|Gerencia|Gerencia qualidade do projeto e da execução conforme padrões e contrato.|Plano da qualidade; inspeções; NCR; auditorias; entrega documental.|Engenharia; ISO 9001 desejável.|GED; Power BI; BIM 360|R$18.000-R$32.000|R$27.000-R$50.000|Hospital/Data Center +40% a +100%|project quality manager

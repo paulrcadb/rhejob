@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Busca de Cargos | RH Job</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="RH Job">
+        <img src="assets/logorh.jpg" alt="RH Job" />
+      </a>
+      <nav>
+        <a class="active" href="cargos.html">Busca de Cargos</a>
+        <a href="analise.html">Analisar curriculo</a>
+        <a class="gear-link" href="admin.html" aria-label="Administracao">&#9881;</a>
+        <button class="logout-button" type="button">Sair</button>
+      </nav>
+    </header>
+    <section class="cover compact" aria-label="Conectando caminhos, criando oportunidades">
+      <img src="assets/rh_jobs_cover.jpg" alt="Conectando caminhos, criando oportunidades." />
+    </section>
+    <main class="shell">
+      <section class="panel">
+        <h1>Busca de Cargos</h1>
+        <form id="cargo-form" class="form">
+          <label for="nome_cargo">Nome do cargo</label>
+          <div class="inline">
+            <input id="nome_cargo" name="nome_cargo" type="text" placeholder="Ex: Analista de Dados" required />
+            <button type="submit">Buscar</button>
+          </div>
+        </form>
+        <p id="cargo-status" class="status"></p>
+        <p id="ia-status" class="status subtle"></p>
+        <div class="latest-searches">
+          <h2>Últimas buscas realizadas</h2>
+          <div id="ultimas-buscas" class="search-history"></div>
+        </div>
+      </section>
+
+      <section id="cargo-detalhe" class="panel hidden">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Detalhes da busca</p>
+            <h2 id="detail-title">Cargo encontrado</h2>
+          </div>
+        </div>
+        <div id="cargo-detail-content"></div>
+      </section>
+    </main>
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

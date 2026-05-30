@@ -1,0 +1,21 @@
+INFO:     Started server process [11284]
+INFO:     Waiting for application startup.
+2026-05-28 22:31:09,357 INFO Banco SQLite inicializado em C:\Users\paulr\OneDrive\Documentos\project-codex-visualstudio\job-analyzer\database.db
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-05-28 22:31:46,257 INFO HTTP Request: GET https://duckduckgo.com/html/?q=site%3Agov.br%2Ftrabalho-e-emprego+CBO+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+atividades+competencias+ocupacao "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:46,419 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=site%3Agov.br%2Ftrabalho-e-emprego+CBO+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+atividades+competencias+ocupacao "HTTP/1.1 202 Accepted"
+2026-05-28 22:31:46,913 INFO HTTP Request: GET https://duckduckgo.com/html/?q=site%3Aconsulta.trabalho.gov.br%2Fempregador%2Fcbo%2Fprocuracbo+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:47,538 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=site%3Aconsulta.trabalho.gov.br%2Fempregador%2Fcbo%2Fprocuracbo+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o "HTTP/1.1 200 OK"
+2026-05-28 22:31:47,973 INFO HTTP Request: GET https://duckduckgo.com/html/?q=site%3Agov.br%2Ftrabalho-e-emprego+guia+brasileiro+ocupacoes+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:48,118 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=site%3Agov.br%2Ftrabalho-e-emprego+guia+brasileiro+ocupacoes+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o "HTTP/1.1 202 Accepted"
+2026-05-28 22:31:48,592 INFO HTTP Request: GET https://duckduckgo.com/html/?q=site%3Aonetonline.org+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+tasks+skills+knowledge "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:48,721 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=site%3Aonetonline.org+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+tasks+skills+knowledge "HTTP/1.1 202 Accepted"
+2026-05-28 22:31:49,212 INFO HTTP Request: GET https://duckduckgo.com/html/?q=site%3Aesco.ec.europa.eu+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+occupation+skills+competences "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:49,341 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=site%3Aesco.ec.europa.eu+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+occupation+skills+competences "HTTP/1.1 202 Accepted"
+2026-05-28 22:31:49,833 INFO HTTP Request: GET https://duckduckgo.com/html/?q=vaga+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+responsabilidades+requisitos+ferramentas+conhecimentos "HTTP/1.1 302 Moved Temporarily"
+2026-05-28 22:31:49,953 INFO HTTP Request: GET https://html.duckduckgo.com/html/?q=vaga+Analista+de+RH+-+Recrutamento+e+Sele%C3%A7%C3%A3o+responsabilidades+requisitos+ferramentas+conhecimentos "HTTP/1.1 202 Accepted"
+2026-05-28 22:31:49,978 WARNING Atualizacao profunda abortada: Nenhuma fonte publica retornou informacoes suficientes.
+2026-05-28 22:32:08,635 INFO Analise concluida para cargo_id=7 arquivo=Marcos Damasio de Jesus - Resume.pdf
+2026-05-28 22:32:31,247 INFO Analise concluida para cargo_id=7 arquivo=Profile (3).pdf
+2026-05-28 22:34:02,951 INFO Usuario cadastrado/atualizado: biancarsjesus@gmail.com

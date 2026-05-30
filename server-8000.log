@@ -1,0 +1,23 @@
+INFO:     127.0.0.1:52763 - "GET /cargos.html HTTP/1.1" 302 Found
+INFO:     127.0.0.1:52762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52764 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52764 - "GET /cargos.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56402 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56402 - "GET /favicon.ico HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56402 - "GET /login.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60768 - "GET /static/script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56402 - "GET /static/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61241 - "GET /static/assets/logorh.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60768 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56402 - "GET /favicon.ico HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55957 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55957 - "GET /cargos.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55957 - "GET /static/script.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:64514 - "GET /static/assets/rh_jobs_cover.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:64514 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55957 - "GET /cargos/buscas HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64514 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59055 - "POST /logout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59055 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62356 - "GET / HTTP/1.1" 200 OK

@@ -1,0 +1,98 @@
+RH Job - Instalacao em outro desktop
+====================================
+
+Depois de descompactar o ZIP, abra a pasta do projeto no Visual Studio Code.
+
+Pasta esperada:
+job-analyzer
+
+Requisitos:
+- Python 3.11 ou superior instalado
+- Marcar "Add Python to PATH" durante a instalacao do Python
+
+Instalacao manual
+-----------------
+
+1. Abra o terminal do VS Code na pasta job-analyzer.
+
+2. Crie o ambiente virtual:
+
+python -m venv .venv
+
+3. Ative o ambiente virtual:
+
+.\.venv\Scripts\Activate.ps1
+
+4. Instale as dependencias:
+
+pip install -r requirements.txt
+
+5. Entre na pasta backend:
+
+cd backend
+
+6. Rode a aplicacao com login na porta 8000:
+
+uvicorn main:app --host 127.0.0.1 --port 8000
+
+7. Acesse:
+
+http://localhost:8000
+
+Login inicial:
+E-mail: admin@rhjob.local
+Senha: admin123
+
+8. Para rodar sem login, abra outro terminal, ative o ambiente virtual, entre na pasta backend e rode:
+
+uvicorn main:app --host 127.0.0.1 --port 8001
+
+9. Acesse:
+
+http://localhost:8001
+
+
+Instalacao automatica
+---------------------
+
+Na pasta job-analyzer, clique com o botao direito no arquivo:
+
+start-rhjob.ps1
+
+Escolha "Run with PowerShell".
+
+Ou rode pelo terminal:
+
+powershell -ExecutionPolicy Bypass -File .\start-rhjob.ps1
+
+Esse script faz:
+- cria o ambiente virtual .venv se nao existir
+- instala dependencias
+- inicia a porta 8000 com login
+- inicia a porta 8001 sem login
+
+Links depois da execucao:
+
+Com login:
+http://localhost:8000
+
+Sem login:
+http://localhost:8001
+
+
+Prompt para usar no VS Code/Codex
+---------------------------------
+
+Cole este prompt no Codex depois de abrir a pasta job-analyzer no VS Code:
+
+"Configure e rode este projeto localmente. Crie o ambiente virtual se nao existir, instale as dependencias do requirements.txt, rode o FastAPI na porta 8000 com login e rode uma segunda instancia na porta 8001 sem login. Depois valide se http://localhost:8000 redireciona para /login.html e se http://localhost:8001 abre direto."
+
+
+Observacoes
+-----------
+
+- A porta 8000 exige login e senha.
+- A porta 8001 abre a aplicacao diretamente.
+- Se alguma porta ja estiver em uso, feche o processo antigo ou altere a porta no comando uvicorn.
+- O banco local e o arquivo database.db.
+- O sistema roda em modo local, sem integracao com API externa de IA.

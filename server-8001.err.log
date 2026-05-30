@@ -1,0 +1,8 @@
+INFO:     Started server process [18340]
+INFO:     Waiting for application startup.
+2026-05-29 07:08:03,799 INFO Base Operacional Construcao Civil importada: 30 cargo(s).
+2026-05-29 07:08:07,092 INFO Base Gestao de Obras e Projetos importada: 50 cargo(s).
+2026-05-29 07:08:07,389 INFO Banco SQLite inicializado em C:\Users\paulr\OneDrive\Documentos\project-codex-visualstudio\job-analyzer\database.db
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+2026-05-29 07:09:01,251 INFO Cargo encontrado na base local: Gerente de Obras

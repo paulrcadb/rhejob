@@ -1,0 +1,28 @@
+INFO:     127.0.0.1:57463 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57464 - "GET /cargos.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60981 - "GET /static/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58258 - "GET /cargos.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58258 - "GET /static/script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58258 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58258 - "GET /cargos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58258 - "POST /cargo/7/atualizar-profundo HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59449 - "GET /analise.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59449 - "GET /static/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59449 - "GET /static/script.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59449 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59449 - "GET /cargos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54303 - "POST /analisar HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63891 - "POST /analisar HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52337 - "GET /admin.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52337 - "GET /static/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:52337 - "GET /static/script.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:52337 - "GET /usuarios HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52337 - "GET /config/ia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52337 - "GET /logs/analises HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52337 - "GET /cargos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63922 - "POST /usuarios HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63922 - "GET /usuarios HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60925 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60925 - "GET /static/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60925 - "GET /static/assets/logorh.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60925 - "GET /static/assets/rh_jobs_cover.jpg HTTP/1.1" 304 Not Modified
